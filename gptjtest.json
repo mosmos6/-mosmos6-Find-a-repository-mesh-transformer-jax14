@@ -20,7 +20,7 @@
   "weight_decay": 0.1,
   "total_steps": 10,
 
-  "tpu_size": 8,
+  "tpu_size": 1,
 
   "bucket": "gptjtest2dummy",
   "model_dir": "puurecipedummy",
